@@ -1,13 +1,13 @@
 ****
 
-**Details**
-Take-home; subsequent revisions allowed
-20% of [[HY4132]]
+**Details**\
+Take-home; subsequent revisions allowed\
+20% of HY4132\
 Submitted on Aug. 15, 2025
 
 ****
 
-**Question**
+**Question**\
 "The Arab-Israeli Conflict during the period 1948-1979 remained unresolved because of the ineffectiveness of the United Nations.” Do you agree?
 
 ****
@@ -67,8 +67,8 @@ In conclusion, the Arab-Israeli Conflict remained unresolved not because of Unit
 
 ****
 
-**Grade**
+**Grade**\
 **A** / 5.0 GP
 
-**Personal comments**
+**Personal comments**\
 This was the final submitted version; here I engaged with the AI outline well, which had been lacking in my first draft. This critical engagement, as well as my analysis of the question from the perspectives of the Israelis, Arabs, and the United Nations, led me to an A grade.
