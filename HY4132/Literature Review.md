@@ -2,7 +2,7 @@
 
 **Details**
 Take-home; subsequent revisions allowed
-15% of [[HY4132]] (part of Project)
+15% of HY4132 (part of Project)
 Submitted on Sep. 19, 2025
 
 ****
