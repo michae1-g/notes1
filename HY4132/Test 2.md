@@ -1,13 +1,13 @@
 ****
 
-**Details**
-1 hour 15 minutes
-20% of [[HY4132]]
+**Details**\
+1 hour 15 minutes\
+20% of [[HY4132]]\
 Submitted on Aug. 22, 2025
 
 ****
 
-**Question**
+**Question**\
 Was the 1960-65 Congo Crisis “a crisis of decolonization” or “a crisis of the Cold War”?
 
 ****
@@ -58,8 +58,8 @@ In summary, the Congo Crisis was undoubtedly much more “a crisis of decoloniza
 
 ****
 
-**Grade**
+**Grade**\
 **A-** / 4.5 GP
 
-**Personal comments**
-It was foolish for me to have included hypotheses like "Janssens could have ... into mutiny" and "the CIA had ... Lumumba". Avoid such guesses (which cannot be substantiated by evidence) in the future.
+**Personal comments**\
+It was foolish for me to have included hypotheses like "Janssens could have ... into mutiny" and "the CIA had ... Lumumba". I'll have to avoid such guesses (which cannot be substantiated by evidence) in the future.
