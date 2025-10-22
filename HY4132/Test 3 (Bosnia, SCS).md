@@ -111,9 +111,9 @@ Taken as a set, the sources conclusively reveal the fact that ASEAN’s efforts 
 **Grade (Question 2)**\
 **A-** / 4.5 GP
 
-**Personal comments**\
-1. I should have used more footnotes. That would have helped in both essays.\
-2. The signposting (in the last paragraph of the introduction in Essay 1) is clear, and works well. I should adopt it, with discretion, for all future essays. (Even though, I note, Halbach (2019) recommends against it.)\
-3. I should have advanced my argument in Essay 2 with more nuance by paying attention to the non-insignificant role played by ASEAN's diplomacy. That would have gotten me an A grade, I think. Of course, I was also rushing it, which resulted in a number of very avoidable and noticeable spelling errors (I will have to use the spellcheck feature in future essays).\
-4. I need to manage my time better, and try to spend 5 minutes or so drafting an essay plan before I start. Perhaps I can write the signposting paragraph immediately after planning. I should also allocate a few minutes to post-writing proofreading.\
+**Personal comments**
+1. I should have used more footnotes. That would have helped in both essays.
+2. The signposting (in the last paragraph of the introduction in Essay 1) is clear, and works well. I should adopt it, with discretion, for all future essays. (Even though, I note, Halbach (2019) recommends against it.)
+3. I should have advanced my argument in Essay 2 with more nuance by paying attention to the non-insignificant role played by ASEAN's diplomacy. That would have gotten me an A grade, I think. Of course, I was also rushing it, which resulted in a number of very avoidable and noticeable spelling errors (I will have to use the spellcheck feature in future essays).
+4. I need to manage my time better, and try to spend 5 minutes or so drafting an essay plan before I start. Perhaps I can write the signposting paragraph immediately after planning. I should also allocate a few minutes to post-writing proofreading.
 5. On the whole, I hope for a marked improvement in the quality of my graded submissions for history courses in Year 5 and beyond. 
