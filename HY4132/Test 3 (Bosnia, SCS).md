@@ -1,7 +1,7 @@
 **Details**\
 2 hours 30 minutes\
 30% of HY4132\
-Submitted on Oct. 8, 2025\
+Submitted on Oct. 8, 2025
 
 ****
 
