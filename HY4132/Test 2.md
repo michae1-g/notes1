@@ -2,7 +2,7 @@
 
 **Details**\
 1 hour 15 minutes\
-20% of [[HY4132]]\
+20% of HY4132\
 Submitted on Aug. 22, 2025
 
 ****
