@@ -1,5 +1,3 @@
-****
-
 **Details**\
 Take-home; subsequent revisions allowed\
 20% of HY4132\
