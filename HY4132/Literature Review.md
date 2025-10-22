@@ -1,8 +1,8 @@
 ****
 
-**Details**
-Take-home; subsequent revisions allowed
-15% of HY4132 (part of Project)
+**Details**\
+Take-home; subsequent revisions allowed\
+15% of HY4132 (part of Project)\
 Submitted on Sep. 19, 2025
 
 ****
@@ -56,9 +56,9 @@ Saikia, P. (2012). Seen problems, unseen stakes. *Institute of Peace and Conflic
 
 ****
 
-**Grade**
+**Grade**\
 **A** / 5.0 GP
 
-**Personal comments**
+**Personal comments**\
 I am decently proud of this piece for the fact that I managed to stay reasonably close (1,035) to the soft word count of 1,000. I think my analysis and integration of sources were fine, and my thematic approach was ultimately credited.
 
