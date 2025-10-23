@@ -42,9 +42,9 @@ While the four articles examined—and broader literature—provide important in
 
 *Reference list*
 
-Deth, S. U. (2014). Heritage, nationalism, and discourses on the Preah Vihear dispute. *SEATIDE: Integration in Southeast Asia: Trajectories of Inclusion, Dynamics of Exclusion*.
-Kwok, D. Y. K. (2023). ASEAN dispute settlement and the Temple of Preah Vihear. *Journal of Dispute Resolution, 2023*(2).
-Lee, S. K. (2014). Siam mismapped: Revisiting the territorial dispute over the Preah Vihear temple. *South East Asia Research, 22*(1), 39–55.
+Deth, S. U. (2014). Heritage, nationalism, and discourses on the Preah Vihear dispute. *SEATIDE: Integration in Southeast Asia: Trajectories of Inclusion, Dynamics of Exclusion*.\
+Kwok, D. Y. K. (2023). ASEAN dispute settlement and the Temple of Preah Vihear. *Journal of Dispute Resolution, 2023*(2).\
+Lee, S. K. (2014). Siam mismapped: Revisiting the territorial dispute over the Preah Vihear temple. *South East Asia Research, 22*(1), 39–55.\
 Saikia, P. (2012). Seen problems, unseen stakes. *Institute of Peace and Conflict Studies*.
 
 [^1]: Refers to the ridge dividing river basins, here along the Dangrek escarpment. Contentiously, although Preah Vihear lies on the Cambodian side of the ridge, its main access is from the Thai plateau below.
