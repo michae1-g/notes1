@@ -1,6 +1,6 @@
 **Details**\
 Take-home; subsequent revisions allowed\
-25% of HY4131 (part of Project)
+25% of HY4131 (part of Project)\
 Submitted on Mar. 14, 2025
 
 ****
