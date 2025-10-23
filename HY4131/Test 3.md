@@ -1,6 +1,6 @@
-**Details**
-2 hours 30 minutes
-30% of HY4131
+**Details**\
+2 hours 30 minutes\
+30% of HY4131\
 Submitted on Apr. 22, 2025
 
 ****
