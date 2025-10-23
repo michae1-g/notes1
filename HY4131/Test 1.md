@@ -1,13 +1,11 @@
-****
-
-**Details**
-1 hour
-20% of [[HY4131]]
+**Details**\
+1 hour\
+20% of HY4131\
 Submitted on Feb. 21, 2025
 
 **** 
 
-**Question**
+**Question**\
 How far do you agree that the documents show that American intervention in Indochina was to secure the independence of the Republic of Vietnam?
 
 ****
@@ -38,5 +36,5 @@ In conclusion, a balanced evaluation of the documents imply that the United Stat
 
 ****
 
-**Grade** 
+**Grade**\
 **A-** / 4.5 GP
