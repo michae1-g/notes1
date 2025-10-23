@@ -1,13 +1,11 @@
-****
-
-**Details**
-1 hour
-20% of [[HY4131]]
+**Details**\
+1 hour\
+20% of HY4131\
 Submitted on Apr. 11, 2025
 
 ****
 
-**Question**
+**Question**\
 “The escalation of the Cold War by President Ronald Reagan laid the foundation for the eventual dissolution of the Soviet Union in 1991.” Do you agree?
 
 ****
@@ -46,6 +44,5 @@ President Reagan implemented decisive foreign policy which was directly aimed at
 
 ****
 
-**Grade**
+**Grade**\
 **B+** / 4.0 GP
-
