@@ -1,5 +1,3 @@
-****
-
 **Details**\
 Take-home; subsequent revisions allowed\
 15% of HY4132 (part of Project)\
