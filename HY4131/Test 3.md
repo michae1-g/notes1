@@ -1,8 +1,6 @@
-**** 
-
 **Details**
 2 hours 30 minutes
-30% of [[HY4131]]
+30% of HY4131
 Submitted on Apr. 22, 2025
 
 ****
@@ -87,8 +85,8 @@ In conclusion, even though documents B and C agree with the thesis (in a limited
 
 ****
 
-**Grade (Question 1)**
+**Grade (Question 1)**\
 **A-** / 4.5 GP
 
-**Grade (Question 2)**
+**Grade (Question 2)**\
 **A** / 5.0 GP
