@@ -38,8 +38,8 @@ Now, while existing literature and studies such as the ones analyzed in this rev
 
 *References*
 
-Koman, R. G. (1994). Man On the Moon: The U.S. space Program as a Cold War maneuver. *OAH Magazine of History, 8*(2), 42–50. [https://www.jstor.org/stable/25162945](https://www.jstor.org/stable/25162945)
-Launius, R. D. (2003). Kennedy’s space policy reconsidered. *Air Power History, 50*(4), 16–29. [https://www.jstor.org/stable/26274485](https://www.jstor.org/stable/26274485)
+Koman, R. G. (1994). Man On the Moon: The U.S. space Program as a Cold War maneuver. *OAH Magazine of History, 8*(2), 42–50. [https://www.jstor.org/stable/25162945](https://www.jstor.org/stable/25162945)\
+Launius, R. D. (2003). Kennedy’s space policy reconsidered. *Air Power History, 50*(4), 16–29. [https://www.jstor.org/stable/26274485](https://www.jstor.org/stable/26274485)\
 Werth, K. (2004). A Surrogate for War—The U.S. space program in the 1960s. *Amerikastudien / American Studies, 49*(4), 563–587. [https://www.jstor.org/stable/41158096](https://www.jstor.org/stable/41158096)
 
 ****
