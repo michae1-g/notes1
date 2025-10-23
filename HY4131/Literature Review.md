@@ -1,13 +1,11 @@
-****
-
-**Details**
-Take-home; subsequent revisions allowed
-25% of [[HY4131]] (part of Project)
+**Details**\
+Take-home; subsequent revisions allowed\
+25% of HY4131 (part of Project)
 Submitted on Mar. 14, 2025
 
 ****
 
-**Topic**
+**Topic**\
 NASA and the Cold War
 
 ****
@@ -46,6 +44,5 @@ Werth, K. (2004). A Surrogate for War—The U.S. space program in the 1960s. *Am
 
 ****
 
-**Grade**
+**Grade**\
 **A** / 5.0 GP
-
