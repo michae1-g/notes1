@@ -4,7 +4,7 @@ Selected notes, work, and other materials for some courses I'm taking at NUS Hig
 Most of the materials for History courses will be typed and uploaded directly as Markdown (.md) files. For other subjects, materials will typically be handwritten and scanned. Additional useful and relevant course-specific information will also be uploaded when possible.
 
 **Courses with uploaded materials:**
-- Chemistry
+- [Chemistry](Chemistry/)
   - CM5131 (Organic Chemistry)
 - General Education (NUS)
   - GEC1030 (Metropolis: The City in World History)
