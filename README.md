@@ -6,7 +6,7 @@ Most of the materials for History courses will be typed and uploaded directly as
 **Courses with uploaded materials:**
 - [Chemistry](Chemistry/)
   - [CM5131](CM5131/) (Organic Chemistry)
-- [General Education (NUS)](General Education (NUS)/)
+- [General Education (NUS)](General%20Education%20%28NUS%29/)
   - [GEC1030](GEC1030/) (Metropolis: The City in World History)
   - [GESS1009](GESS1009/) (The Evolution of a Global City-State)
 - [History](History/)
