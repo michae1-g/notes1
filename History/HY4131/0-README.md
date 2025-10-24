@@ -1,1 +1,0 @@
-Note that besides formatting changes for compatibility with Markdown, the contents of the review and essays were not altered in any way. As such, errors (including typos) may be present. (As a side note, I've been unable to locate the questions for Test 3, so they are marked blank in the document.)
