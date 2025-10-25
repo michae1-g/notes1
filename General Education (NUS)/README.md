@@ -1,4 +1,4 @@
-This folder contains materials for GEC1030 and GESS1009, two NUS GE courses I took in AY2026/27 alongside my high school curriculum.
+This folder contains materials for GEC1030 and GESS1009, two NUS General Education courses I took in AY2026/27 alongside my high school curriculum.
 
 | Course code | Course title | Units | 
 | :---- | :-------- | :---- 
