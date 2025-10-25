@@ -1,4 +1,4 @@
-This folder contains materials for the Senior High history curriculum at NUS High.
+This folder contains materials for the Senior High history courses at NUS High.
 
 | Course code | Course title | Units |
 | :---- | :-------- | :----
