@@ -1,5 +1,5 @@
-# General Education (NUS) notes
-This folder contains notes and resources for the NUS General Education courses taken alongside my high school curriculum.
+# General Education (NUS) materials
+This folder contains notes and resources for GEC1030 and GESS1009, which I took in AY2026/27 alongside my high school curriculum.
 
 ## Course index
 | Course code | Course title | Units | 
