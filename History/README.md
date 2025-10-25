@@ -1,6 +1,6 @@
-This folder contains materials for the core Senior High history curriculum at NUS High.
+This folder contains materials for the Senior High history curriculum at NUS High.
 
-| Course code | Course title | Units | 
-| :---- | :-------- | :---- 
-| [HY4131](HY4131/) | History Insights I | 4 | 
+| Course code | Course title | Units |
+| :---- | :-------- | :----
+| [HY4131](HY4131/) | History Insights I | 4 |
 | [HY4132](HY4132/) | History Insights II | 4 |
