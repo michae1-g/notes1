@@ -1,5 +1,5 @@
 # Chemistry notes
-This folder contains notes and resources for some Chemistry courses I've taken.
+I've always been, relative to my peers, subpar at Chemistry. By actually doing the homework and practicing a bit I started to get better at the subject in Year 4. The Year 5 courses (especially CM5131) are rough, I think, but with practice and effort a good grade can definitely be obtained.
 
 ## Course index
 | Course code | Course title | Units | 
