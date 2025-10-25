@@ -1,5 +1,6 @@
 # Chemistry notes
-I've always been, relative to my peers, subpar at Chemistry. By actually doing the homework and practicing a bit I started to get better at the subject in Year 4. The Year 5 courses (especially CM5131) are rough, I think, but with practice and effort a good grade can definitely be obtained.
+I've always been subpar at Chemistry. However, once I began consistently doing the homework and focused revision, my grades improved noticeably in Year 4. The Year 5 courses, particularly CM5131, are definitely tough, but with consistent work, achieving a strong grade is still very possible.\
+I have made notes and flashcards for CM5131 and CM5132, aided by the Department's lesson slides and handouts.
 
 ## Course index
 | Course code | Course title | Units | 
