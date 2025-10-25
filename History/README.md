@@ -1,4 +1,3 @@
-# History notes
 This folder contains materials for the core Senior High history curriculum at NUS High.
 
 ## Course index
