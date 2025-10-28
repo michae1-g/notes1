@@ -1,5 +1,5 @@
 # About
-This repository contains materials for selected courses I am taking / have taken at NUS High and NUS. 
+This repository contains materials for selected courses I've taken at NUS High and NUS. 
 
 **Subjects with uploaded materials:**\
 [Chemistry](Chemistry/)\
