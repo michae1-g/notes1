@@ -8,3 +8,7 @@ This folder contains materials for the core and honors Year 5 and 6 mathematics 
 | [MA5132](MA5132/) | Statistics | 5 |
 | [MA5431](MA5431/) | Linear Algebra | 2 |
 | [MA5432](MA5432/) | Polar Coordinates, Parametric Equations and Vector Functions | 2 |
+| MA6131 | Advanced Statistics | 5 |
+| MA6132 | Advanced Mathematics II | 5 |
+| MA6431 | Honours Calculus | 2 |
+| MA6433 | Graph Theory | 2 |
