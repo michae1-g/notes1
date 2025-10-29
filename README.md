@@ -5,4 +5,5 @@ This repository contains materials for selected courses I've taken at NUS High a
 [Chemistry](Chemistry/)\
 [General Education (NUS)](General%20Education%20%28NUS%29/)\
 [History](History/)\
+[Mathematics](Mathematics/)\
 [Physics](Physics/)
