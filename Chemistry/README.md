@@ -1,4 +1,4 @@
-This folder contains materials for the core Chemistry courses in Years 5 and 6 at NUS High.
+This folder contains materials for the core Chemistry courses in Years 5–6 at NUS High.
 
 | Course code | Course title | Units |
 | :---- | :-------- | :----
