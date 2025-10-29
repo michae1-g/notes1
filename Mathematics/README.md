@@ -1,4 +1,4 @@
-This folder contains materials for the core and honors Year 5 and 6 mathematics courses at NUS High.
+This folder contains materials for the core and honors Years 5–6 Mathematics courses at NUS High.
 
 | Course code | Course title | Units |
 | :---- | :-------- | :----
