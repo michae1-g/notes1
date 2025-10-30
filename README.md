@@ -1,5 +1,5 @@
 # About
-Contains materials (coursework, essays, notes, etc.) for selected courses I've taken from 2026–2027 at NUS High and NUS. 
+Contains materials (coursework, notes, etc.) for selected courses I've taken from 2026–2027 at NUS High and NUS. 
 
 **Subjects with uploaded materials:**\
 [Chemistry](Chemistry/)\
