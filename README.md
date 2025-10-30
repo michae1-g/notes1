@@ -1,5 +1,5 @@
 # About
-Contains various materials for selected courses I've taken from 2026–2027 at NUS High and NUS. For more information, please consult the subject-level READMEs.
+Contains various materials for selected courses I've taken from 2025–2027 at NUS High and NUS. For more information, please consult the subject-level READMEs.
 
 **Subjects with uploaded materials:**\
 [Chemistry](Chemistry/)\
