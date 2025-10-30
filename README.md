@@ -1,5 +1,5 @@
 # About
-This repository contains materials for selected courses I've taken at NUS High and NUS. 
+Contains selected courses I've taken from 2026–2027 at NUS High and NUS. 
 
 **Subjects with uploaded materials:**\
 [Chemistry](Chemistry/)\
