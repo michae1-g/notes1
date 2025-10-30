@@ -1,4 +1,4 @@
-This folder contains materials for the General Education courses GEC1030 and GESS1009 at NUS.
+This folder contains materials for two General Education courses (GEC1030 and GESS1009) at NUS.
 
 | Course code | Course title | Units |
 | :---- | :-------- | :----
