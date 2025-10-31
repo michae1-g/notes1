@@ -6,4 +6,4 @@ Contains various materials for selected courses I've taken from 2025–2027 at N
 [General Education (NUS)](General%20Education%20%28NUS%29/)\
 [History](History/)\
 [Mathematics](Mathematics/)\
-[Physics](Physics/)\
+[Physics](Physics/)
