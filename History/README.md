@@ -1,4 +1,4 @@
-This folder contains materials for the History courses in Years 4–6 at NUS High.
+This folder contains materials for the History courses in Years 4–6 at NUS High. Note that, aside from formatting changes for Markdown compatibility, the reviews and essays have not been altered in any way; as such, errors (including typos) may still be present.
 
 | Course code | Course title | Units |
 | :---- | :-------- | :----
